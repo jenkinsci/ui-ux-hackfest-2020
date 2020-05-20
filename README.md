@@ -13,7 +13,7 @@ We also invite participants to share experiences about Jenkins and to participat
 The event will have the [Jenkins is the Way](https://www.jenkins.io/blog/2020/04/30/jenkins-is-the-way/) theme.
 You can find more information on the [event page](https://www.jenkins.io/events/online-hackfest/2020-uiux/).
 
-[![Register](./img/register-button.png)](https://forms.gle/MrkASJagxNvdXBbdA)
+[![Register](./img/register-button-small.png)](https://forms.gle/MrkASJagxNvdXBbdA)
 
 ## Tracks and projects
 
