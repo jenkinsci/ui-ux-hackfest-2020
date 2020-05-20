@@ -1,6 +1,9 @@
 [![Hackfest Image](./img/README_header_top.png)](https://www.jenkins.io/events/online-hackfest/2020-uiux/)
 
 [![Gitter](https://badges.gitter.im/jenkinsci/hackfest.svg)](https://gitter.im/jenkinsci/hackfest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Registration](https://img.shields.io/badge/register-here-blue)](https://forms.gle/MrkASJagxNvdXBbdA)
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-lightgrey.svg)](https://www.jenkins.io/project/conduct/)
+
 
 ## About the event
 
@@ -23,8 +26,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 
 ## Resources
 
-* [Announcement blogpost](https://www.jenkins.io/blog/2020/05/12/uiux-hackfest-announcement/)
-* [Registration form](https://forms.gle/MrkASJagxNvdXBbdA)
+* [Event page](https://www.jenkins.io/events/online-hackfest/2020-uiux/)
 * [Online events](https://www.jenkins.io/events/online-hackfest/2020-uiux/#online-events) - planned sessions for developers and users
 * [Swag and prizes](https://www.jenkins.io/events/online-hackfest/2020-uiux/#swag-and-prizes)
 * [Code of Conduct](https://www.jenkins.io/project/conduct/)
