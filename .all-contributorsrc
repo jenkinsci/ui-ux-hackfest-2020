@@ -26,6 +26,15 @@
       "contributions": [
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "tracymiranda",
+      "name": "Tracy Miranda",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5173122?v=4",
+      "profile": "https://tracymiranda.com",
+      "contributions": [
+        "eventOrganizing"
+      ]
     }
   ],
   "projectName": "jenkins-uiux-hackfest-2020",
