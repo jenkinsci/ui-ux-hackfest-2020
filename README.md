@@ -68,3 +68,6 @@ We also thank sponsors of the event who make the swag and prizes possible:
 [Continuous Delivery Foundation (CDF)](https://cd.foundation/).
 In addition to swag, CloudBees donates working time for event hosts and reviewers.
 CDF also sponsors our [online meetup platform](https://www.jenkins.io/events/online-meetup) which we will be using for the event.
+
+[![CloudBees Logo](./img/cloudbees-logo.png)](https://www.cloudbees.com/)
+[![CDF Logo](./img/cdf.png)](https://cd.foundation/)
