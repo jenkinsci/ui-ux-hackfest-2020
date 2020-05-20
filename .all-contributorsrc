@@ -52,6 +52,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "uhafner",
+      "name": "Ullrich Hafner",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/503338?v=4",
+      "profile": "http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/hafner/index.de.html",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "projectName": "jenkins-uiux-hackfest-2020",

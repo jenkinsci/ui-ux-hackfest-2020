@@ -36,7 +36,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -44,11 +44,12 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://oleg-nenashev.github.io/"><img src="https://avatars0.githubusercontent.com/u/3000480?v=4" width="100px;" alt=""/><br /><sub><b>Oleg Nenashev</b></sub></a></td>
-    <td align="center"><a href="https://jenkins.io/blog/authors/markewaite/"><img src="https://avatars2.githubusercontent.com/u/156685?v=4" width="100px;" alt=""/><br /><sub><b>Mark Waite</b></sub></a></td>
-    <td align="center"><a href="https://tracymiranda.com"><img src="https://avatars2.githubusercontent.com/u/5173122?v=4" width="100px;" alt=""/><br /><sub><b>Tracy Miranda</b></sub></a></td>
-    <td align="center"><a href="https://github.com/timja"><img src="https://avatars3.githubusercontent.com/u/21194782?v=4" width="100px;" alt=""/><br /><sub><b>Tim Jacomb</b></sub></a></td>
-    <td align="center"><a href="https://twitter.com/markyjackson5"><img src="https://avatars2.githubusercontent.com/u/16655670?v=4" width="100px;" alt=""/><br /><sub><b>Marky Jackson</b></sub></a></td>
+    <td align="center"><a href="https://oleg-nenashev.github.io/"><img src="https://avatars0.githubusercontent.com/u/3000480?v=4" width="100px;" alt=""/><br /><sub><b>Oleg Nenashev</b></sub></a><br /><a href="#eventOrganizing-oleg-nenashev" title="Event Organizing">📋</a></td>
+    <td align="center"><a href="https://jenkins.io/blog/authors/markewaite/"><img src="https://avatars2.githubusercontent.com/u/156685?v=4" width="100px;" alt=""/><br /><sub><b>Mark Waite</b></sub></a><br /><a href="#eventOrganizing-MarkEWaite" title="Event Organizing">📋</a></td>
+    <td align="center"><a href="https://tracymiranda.com"><img src="https://avatars2.githubusercontent.com/u/5173122?v=4" width="100px;" alt=""/><br /><sub><b>Tracy Miranda</b></sub></a><br /><a href="#eventOrganizing-tracymiranda" title="Event Organizing">📋</a></td>
+    <td align="center"><a href="https://github.com/timja"><img src="https://avatars3.githubusercontent.com/u/21194782?v=4" width="100px;" alt=""/><br /><sub><b>Tim Jacomb</b></sub></a><br /><a href="https://github.com/oleg-nenashev/jenkins-uiux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Atimja" title="Reviewed Pull Requests">👀</a> <a href="#ideas-timja" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://twitter.com/markyjackson5"><img src="https://avatars2.githubusercontent.com/u/16655670?v=4" width="100px;" alt=""/><br /><sub><b>Marky Jackson</b></sub></a><br /><a href="https://github.com/oleg-nenashev/jenkins-uiux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Amarkyjackson-taulia" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/hafner/index.de.html"><img src="https://avatars2.githubusercontent.com/u/503338?v=4" width="100px;" alt=""/><br /><sub><b>Ullrich Hafner</b></sub></a><br /><a href="#talk-uhafner" title="Talks">📢</a></td>
   </tr>
 </table>
 
