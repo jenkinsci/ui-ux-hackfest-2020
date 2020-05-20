@@ -25,7 +25,8 @@
       "profile": "https://jenkins.io/blog/authors/markewaite/",
       "contributions": [
         "eventOrganizing",
-        "talk"
+        "talk",
+        "review"
       ]
     },
     {
@@ -67,8 +68,8 @@
       ]
     }
   ],
-  "projectName": "jenkins-uiux-hackfest-2020",
-  "projectOwner": "oleg-nenashev",
+  "projectName": "ui-ux-hackfest-2020",
+  "projectOwner": "jenkinsci",
   "repoType": "github",
   "repoHost": "https://github.com"
 }
