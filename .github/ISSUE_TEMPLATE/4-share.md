@@ -1,7 +1,7 @@
 ---
 name: "📢 Spread The Word"
 labels: spread-the-word
-about: Let us know about your contributions: user stories, posts and videos about jenkins
+about: "Let us know about your contributions: user stories, posts and videos about jenkins"
 ---
 
 Summary: Please describe what you have done here
