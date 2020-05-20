@@ -26,6 +26,15 @@
       "contributions": [
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "alyssat",
+      "name": "Alyssat",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15133103?v=4",
+      "profile": "https://github.com/alyssat",
+      "contributions": [
+        "fundingFinding"
+      ]
     }
   ],
   "projectName": "jenkins-uiux-hackfest-2020",
