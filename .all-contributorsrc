@@ -45,6 +45,15 @@
         "review",
         "ideas"
       ]
+    },
+    {
+      "login": "markyjackson-taulia",
+      "name": "Marky Jackson",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16655670?v=4",
+      "profile": "https://twitter.com/markyjackson5",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "jenkins-uiux-hackfest-2020",
