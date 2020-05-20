@@ -1,7 +1,7 @@
 ---
-name: "🚀 UI/UX Bug Fix"
+name: "🐛 UI/UX bug fix"
 labels: bug
-about: Let us know about a UI/UX bug in Jenkins you have fixed!
+about: "Let us know about a UI/UX bug in Jenkins you have fixed!"
 ---
 
 Summary: Please describe what you have done here
