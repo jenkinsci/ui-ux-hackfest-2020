@@ -7,12 +7,13 @@
 
 ## About the event
 
-UI/UX Online Hackfest is an online event, it will take place on May 25-29.
+[Jenkins UI/UX Online Hackfest](https://www.jenkins.io/events/online-hackfest/2020-uiux/) is an online event which will take place on May 25-29.
 The goal to improve the Jenkins user experience, including but not limited to user interface and documentation.
 We also invite participants to share experiences about Jenkins and to participate in UX testing.
 The event will have the [Jenkins is the Way](https://www.jenkins.io/blog/2020/04/30/jenkins-is-the-way/) theme.
-
 You can find more information on the [event page](https://www.jenkins.io/events/online-hackfest/2020-uiux/).
+
+[![Register](./img/register-button.png)](https://forms.gle/MrkASJagxNvdXBbdA)
 
 ## Tracks and projects
 
