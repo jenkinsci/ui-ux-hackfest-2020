@@ -17,6 +17,15 @@
       "contributions": [
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "MarkEWaite",
+      "name": "Mark Waite",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/156685?v=4",
+      "profile": "https://jenkins.io/blog/authors/markewaite/",
+      "contributions": [
+        "eventOrganizing"
+      ]
     }
   ],
   "projectName": "jenkins-uiux-hackfest-2020",
