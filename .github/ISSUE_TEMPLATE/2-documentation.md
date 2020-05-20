@@ -1,7 +1,7 @@
 ---
 name: "📝 Documentation"
 labels: documentation
-about: Let us know about a documentation contribution (optional)
+about: Let us know about a documentation contribution (optional - we will track GitHub)
 ---
 
 Summary: Please describe what you have done here
