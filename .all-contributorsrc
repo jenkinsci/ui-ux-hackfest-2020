@@ -35,6 +35,16 @@
       "contributions": [
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "timja",
+      "name": "Tim Jacomb",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21194782?v=4",
+      "profile": "https://github.com/timja",
+      "contributions": [
+        "review",
+        "ideas"
+      ]
     }
   ],
   "projectName": "jenkins-uiux-hackfest-2020",
