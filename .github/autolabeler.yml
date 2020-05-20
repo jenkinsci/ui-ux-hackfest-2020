@@ -1,0 +1,3 @@
+documentation: ["*.md", "img"]
+chore: [".github", "LICENSE"]
+all-contributors: [".all-contributorsrc"]
