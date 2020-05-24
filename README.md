@@ -27,9 +27,11 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 
 ## Resources
 
-* [Event page](https://www.jenkins.io/events/online-hackfest/2020-uiux/)
-* [Online events](https://www.jenkins.io/events/online-hackfest/2020-uiux/#online-events) - planned sessions for developers and users
-* [Swag and prizes](https://www.jenkins.io/events/online-hackfest/2020-uiux/#swag-and-prizes)
+* [Main event page](https://www.jenkins.io/events/online-hackfest/2020-uiux/) with all information, e.g. 
+  [project ideas](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-and-project-ideas),
+  [online events](https://www.jenkins.io/events/online-hackfest/2020-uiux/#online-events),
+  [swag and prizes](https://www.jenkins.io/events/online-hackfest/2020-uiux/#swag-and-prizes)
+* [Getting started, Reporting cotnributions](./CONTRIBUTING.md)
 * [Code of Conduct](https://www.jenkins.io/project/conduct/)
 * [Frequently Asked Questions](https://www.jenkins.io/events/online-hackfest/2020-uiux/faq/)
 
