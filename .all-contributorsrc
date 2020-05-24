@@ -86,6 +86,15 @@
         "fundingFinding",
         "talk"
       ]
+    },
+    {
+      "login": "CloudBees",
+      "name": "CloudBees",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/235526?v=4",
+      "profile": "https://www.cloudbees.com/",
+      "contributions": [
+        "financial"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
