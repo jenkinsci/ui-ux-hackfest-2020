@@ -19,9 +19,24 @@ See the [main page](./README.md) for more information and links
 
 ## Reporting contributions
 
-* Submit an issue to this repository to report the achievements.
+We will be using GitHub Issues in this repository to collect contributions and to generate reports from the event.
+
+**Quality vs. Quantity:** Please do not target creating a maximum number of records, we will take contribution sizes into account during ranking.
+If you are working on a single area (e.g. "testing the Windows installation guide" or "improving a Neo2 theme") during a day,
+please record it as a single contribution even if it involves multiple pull requests or issues.
+
+To report a contribution:
+
+* [Submit a new issue](https://github.com/jenkinsci/ui-ux-hackfest-2020/issues/new/choose) to this repository to report the achievements.
   There are issue templates which will help to provide the information.
+  * Please put a summary of your contribution and links
+  * Screenshots are also welcome!
+* **Recommended:** Share your contribution experience in social media!
+  * Please use the `#JenkinsIsTheWay` hashtag so that we could discover and repost it
   
+Once you submit an issue, one of the hackfest organizers will process it, add your contribution to the list and then close the issue.
+Thanks in advance for your contributions!
+
 ## Resources
 
 * See https://www.jenkins.io/events/online-hackfest/2020-uiux/
