@@ -1,6 +1,6 @@
 ## Organizers
 
-This hackfest is organizedby the following individual and company contributors:
+This hackfest is organized by the following individual and company contributors:
 
 <table>
   <tr>
