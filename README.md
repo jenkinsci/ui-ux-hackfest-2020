@@ -38,7 +38,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -57,6 +57,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
   <tr>
     <td align="center"><a href="https://github.com/alyssat"><img src="https://avatars1.githubusercontent.com/u/15133103?v=4" width="100px;" alt=""/><br /><sub><b>Alyssat</b></sub></a><br /><a href="#fundingFinding-alyssat" title="Funding Finding">🔍</a> <a href="#talk-alyssat" title="Talks">📢</a></td>
     <td align="center"><a href="https://github.com/stellargo"><img src="https://avatars0.githubusercontent.com/u/27735438?v=4" width="100px;" alt=""/><br /><sub><b>Sumit Sarin</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=stellargo" title="Documentation">📖</a> <a href="#tool-stellargo" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/olblak"><img src="https://avatars1.githubusercontent.com/u/2360224?v=4" width="100px;" alt=""/><br /><sub><b>Olblak</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=olblak" title="Documentation">📖</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Aolblak" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
