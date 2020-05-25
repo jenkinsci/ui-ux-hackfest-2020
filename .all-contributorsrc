@@ -4,7 +4,7 @@
   ],
   "imageSize": 100,
   "contributorsPerLine": 7,
-  "contributorsSortAlphabetically": false,
+  "contributorsSortAlphabetically": true,
   "skipCi": true,
   "contributors": [
     {
@@ -86,25 +86,6 @@
       "contributions": [
         "fundingFinding",
         "talk"
-      ]
-    },
-    {
-      "login": "CloudBees",
-      "name": "CloudBees",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/235526?v=4",
-      "profile": "https://www.cloudbees.com/",
-      "contributions": [
-        "financial"
-      ]
-    },
-    {
-      "login": "cdfoundation",
-      "name": "CDF",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/47642222?v=4",
-      "profile": "https://cd.foundation",
-      "contributions": [
-        "financial",
-        "infra"
       ]
     },
     {
