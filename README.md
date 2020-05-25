@@ -38,7 +38,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -58,6 +58,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
     <td align="center"><a href="https://github.com/alyssat"><img src="https://avatars1.githubusercontent.com/u/15133103?v=4" width="100px;" alt=""/><br /><sub><b>Alyssat</b></sub></a><br /><a href="#fundingFinding-alyssat" title="Funding Finding">🔍</a> <a href="#talk-alyssat" title="Talks">📢</a></td>
     <td align="center"><a href="https://www.cloudbees.com/"><img src="https://avatars3.githubusercontent.com/u/235526?v=4" width="100px;" alt=""/><br /><sub><b>CloudBees</b></sub></a><br /><a href="#financial-CloudBees" title="Financial">💵</a></td>
     <td align="center"><a href="https://cd.foundation"><img src="https://avatars0.githubusercontent.com/u/47642222?v=4" width="100px;" alt=""/><br /><sub><b>CDF</b></sub></a><br /><a href="#financial-cdfoundation" title="Financial">💵</a> <a href="#infra-cdfoundation" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/stellargo"><img src="https://avatars0.githubusercontent.com/u/27735438?v=4" width="100px;" alt=""/><br /><sub><b>Sumit Sarin</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=stellargo" title="Documentation">📖</a> <a href="#tool-stellargo" title="Tools">🔧</a></td>
   </tr>
 </table>
 

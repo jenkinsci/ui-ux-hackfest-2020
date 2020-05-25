@@ -105,6 +105,16 @@
         "financial",
         "infra"
       ]
+    },
+    {
+      "login": "stellargo",
+      "name": "Sumit Sarin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/27735438?v=4",
+      "profile": "https://github.com/stellargo",
+      "contributions": [
+        "doc",
+        "tool"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
