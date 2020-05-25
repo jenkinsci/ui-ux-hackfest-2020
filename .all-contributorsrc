@@ -107,6 +107,15 @@
         "doc",
         "review"
       ]
+    },
+    {
+      "login": "vsilverman",
+      "name": "Vlad Silverman",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2159948?v=4",
+      "profile": "https://vsilverman.github.io",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
