@@ -152,6 +152,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jphartley",
+      "name": "Jeremy Hartley",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2852805?v=4",
+      "profile": "https://github.com/jphartley",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
