@@ -116,6 +116,42 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "daniel-beck",
+      "name": "Daniel Beck",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1831569?v=4",
+      "profile": "https://github.com/daniel-beck",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "romenrg",
+      "name": "Romén Rodríguez-Gil",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1831480?v=4",
+      "profile": "https://www.romenrg.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Wadeck",
+      "name": "Wadeck Follonier",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2662497?v=4",
+      "profile": "https://github.com/Wadeck",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "megathaum",
+      "name": "megathaum",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6340362?v=4",
+      "profile": "https://github.com/megathaum",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
