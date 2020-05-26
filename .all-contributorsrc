@@ -170,6 +170,15 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "aytuncbeken",
+      "name": "Aytunc BEKEN",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17325506?v=4",
+      "profile": "https://www.linkedin.com/in/aytunc-beken/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
