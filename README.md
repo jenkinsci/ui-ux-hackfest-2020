@@ -39,7 +39,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -69,6 +69,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
     <td align="center"><a href="https://github.com/jphartley"><img src="https://avatars3.githubusercontent.com/u/2852805?v=4" width="100px;" alt=""/><br /><sub><b>Jeremy Hartley</b></sub></a><br /><a href="#talk-jphartley" title="Talks">📢</a></td>
     <td align="center"><a href="https://github.com/fqueiruga"><img src="https://avatars3.githubusercontent.com/u/5738588?v=4" width="100px;" alt=""/><br /><sub><b>Félix Queiruga</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=fqueiruga" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/aytunc-beken/"><img src="https://avatars2.githubusercontent.com/u/17325506?v=4" width="100px;" alt=""/><br /><sub><b>Aytunc BEKEN</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=aytuncbeken" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/BarakStout"><img src="https://avatars3.githubusercontent.com/u/34528865?v=4" width="100px;" alt=""/><br /><sub><b>Barak Stout</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=BarakStout" title="Documentation">📖</a></td>
   </tr>
 </table>
 
