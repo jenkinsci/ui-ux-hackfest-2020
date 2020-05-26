@@ -1,7 +1,7 @@
 ---
-name: "✅ UX Testing"
+name: "✅ UX Testing: Report issues and test results"
 labels: ux-testing
-about: Let us know about a User Experience testing you have done for Jenkins UI and User Documentation projects
+about: Let us know about a User Experience testing you have done for Jenkins UI and User Documentation. We will move issues to proper locations later.
 ---
 
 Summary: Please describe what you have done here
