@@ -239,6 +239,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ksenia-nenasheva",
+      "name": "Kseniia Nenasheva",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5075432?v=4",
+      "profile": "https://github.com/ksenia-nenasheva",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
