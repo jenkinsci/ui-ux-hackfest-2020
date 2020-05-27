@@ -190,6 +190,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "nik35",
+      "name": "Nikhil Mohite",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16377950?v=4",
+      "profile": "https://github.com/Nik35",
+      "contributions": [
+        "review",
+        "doc"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
