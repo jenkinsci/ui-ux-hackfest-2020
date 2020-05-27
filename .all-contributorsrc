@@ -230,6 +230,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "amuniz",
+      "name": "Antonio Muniz",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1017585?v=4",
+      "profile": "http://amunizmartin.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
