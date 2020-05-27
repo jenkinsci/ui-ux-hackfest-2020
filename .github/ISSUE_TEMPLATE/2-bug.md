@@ -1,5 +1,5 @@
 ---
-name: "🐛 UI/UX bug fix"
+name: "🐛 UI/UX Bug Fix"
 labels: bug
 about: "Let us know about a UI/UX bug in Jenkins you have fixed!"
 ---

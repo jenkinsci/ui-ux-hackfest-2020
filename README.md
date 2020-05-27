@@ -7,7 +7,7 @@
 
 ## About the event
 
-[Jenkins UI/UX Online Hackfest](https://www.jenkins.io/events/online-hackfest/2020-uiux/) is an online event which will take place on May 25-29.
+[Jenkins UI/UX Online Hackfest](https://www.jenkins.io/events/online-hackfest/2020-uiux/) is an online event on May 25-29.
 The goal to improve the Jenkins user experience, including but not limited to user interface and documentation.
 We also invite participants to share experiences about Jenkins and to participate in UX testing.
 The event will have the [Jenkins is the Way](https://www.jenkins.io/blog/2020/04/30/jenkins-is-the-way/) theme.
@@ -27,16 +27,19 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 
 ## Resources
 
-* [Event page](https://www.jenkins.io/events/online-hackfest/2020-uiux/)
-* [Online events](https://www.jenkins.io/events/online-hackfest/2020-uiux/#online-events) - planned sessions for developers and users
-* [Swag and prizes](https://www.jenkins.io/events/online-hackfest/2020-uiux/#swag-and-prizes)
+* [Main event page](https://www.jenkins.io/events/online-hackfest/2020-uiux/) with all information, e.g. 
+  [project ideas](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-and-project-ideas),
+  [online events](https://www.jenkins.io/events/online-hackfest/2020-uiux/#online-events),
+  [swag and prizes](https://www.jenkins.io/events/online-hackfest/2020-uiux/#swag-and-prizes)
+* [Getting started, Reporting contributions](./CONTRIBUTING.md)
+* [Recorded Sessions](./presentations/)
 * [Code of Conduct](https://www.jenkins.io/project/conduct/)
 * [Frequently Asked Questions](https://www.jenkins.io/events/online-hackfest/2020-uiux/faq/)
 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -44,12 +47,29 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://oleg-nenashev.github.io/"><img src="https://avatars0.githubusercontent.com/u/3000480?v=4" width="100px;" alt=""/><br /><sub><b>Oleg Nenashev</b></sub></a><br /><a href="#eventOrganizing-oleg-nenashev" title="Event Organizing">📋</a></td>
-    <td align="center"><a href="https://jenkins.io/blog/authors/markewaite/"><img src="https://avatars2.githubusercontent.com/u/156685?v=4" width="100px;" alt=""/><br /><sub><b>Mark Waite</b></sub></a><br /><a href="#eventOrganizing-MarkEWaite" title="Event Organizing">📋</a></td>
+    <td align="center"><a href="https://github.com/oleg-nenashev"><img src="https://avatars0.githubusercontent.com/u/3000480?v=4" width="100px;" alt=""/><br /><sub><b>Oleg Nenashev</b></sub></a><br /><a href="#eventOrganizing-oleg-nenashev" title="Event Organizing">📋</a> <a href="#talk-oleg-nenashev" title="Talks">📢</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=oleg-nenashev" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://jenkins.io/blog/authors/markewaite/"><img src="https://avatars2.githubusercontent.com/u/156685?v=4" width="100px;" alt=""/><br /><sub><b>Mark Waite</b></sub></a><br /><a href="#eventOrganizing-MarkEWaite" title="Event Organizing">📋</a> <a href="#talk-MarkEWaite" title="Talks">📢</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3AMarkEWaite" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://tracymiranda.com"><img src="https://avatars2.githubusercontent.com/u/5173122?v=4" width="100px;" alt=""/><br /><sub><b>Tracy Miranda</b></sub></a><br /><a href="#eventOrganizing-tracymiranda" title="Event Organizing">📋</a></td>
     <td align="center"><a href="https://github.com/timja"><img src="https://avatars3.githubusercontent.com/u/21194782?v=4" width="100px;" alt=""/><br /><sub><b>Tim Jacomb</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Atimja" title="Reviewed Pull Requests">👀</a> <a href="#ideas-timja" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://twitter.com/markyjackson5"><img src="https://avatars2.githubusercontent.com/u/16655670?v=4" width="100px;" alt=""/><br /><sub><b>Marky Jackson</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Amarkyjackson-taulia" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/hafner/index.de.html"><img src="https://avatars2.githubusercontent.com/u/503338?v=4" width="100px;" alt=""/><br /><sub><b>Ullrich Hafner</b></sub></a><br /><a href="#talk-uhafner" title="Talks">📢</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=uhafner" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/res0nance"><img src="https://avatars3.githubusercontent.com/u/31362124?v=4" width="100px;" alt=""/><br /><sub><b>Raihaan Shouhell</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=res0nance" title="Documentation">📖</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=res0nance" title="Code">💻</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Ares0nance" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/alyssat"><img src="https://avatars1.githubusercontent.com/u/15133103?v=4" width="100px;" alt=""/><br /><sub><b>Alyssat</b></sub></a><br /><a href="#fundingFinding-alyssat" title="Funding Finding">🔍</a> <a href="#talk-alyssat" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/stellargo"><img src="https://avatars0.githubusercontent.com/u/27735438?v=4" width="100px;" alt=""/><br /><sub><b>Sumit Sarin</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=stellargo" title="Documentation">📖</a> <a href="#tool-stellargo" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/olblak"><img src="https://avatars1.githubusercontent.com/u/2360224?v=4" width="100px;" alt=""/><br /><sub><b>Olblak</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=olblak" title="Documentation">📖</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Aolblak" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://vsilverman.github.io"><img src="https://avatars0.githubusercontent.com/u/2159948?v=4" width="100px;" alt=""/><br /><sub><b>Vlad Silverman</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Avsilverman" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/daniel-beck"><img src="https://avatars3.githubusercontent.com/u/1831569?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Beck</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=daniel-beck" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.romenrg.com"><img src="https://avatars2.githubusercontent.com/u/1831480?v=4" width="100px;" alt=""/><br /><sub><b>Romén Rodríguez-Gil</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=romenrg" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Wadeck"><img src="https://avatars1.githubusercontent.com/u/2662497?v=4" width="100px;" alt=""/><br /><sub><b>Wadeck Follonier</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=Wadeck" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/megathaum"><img src="https://avatars3.githubusercontent.com/u/6340362?v=4" width="100px;" alt=""/><br /><sub><b>megathaum</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=megathaum" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/jphartley"><img src="https://avatars3.githubusercontent.com/u/2852805?v=4" width="100px;" alt=""/><br /><sub><b>Jeremy Hartley</b></sub></a><br /><a href="#talk-jphartley" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/fqueiruga"><img src="https://avatars3.githubusercontent.com/u/5738588?v=4" width="100px;" alt=""/><br /><sub><b>Félix Queiruga</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=fqueiruga" title="Tests">⚠️</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Afqueiruga" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/aytunc-beken/"><img src="https://avatars2.githubusercontent.com/u/17325506?v=4" width="100px;" alt=""/><br /><sub><b>Aytunc BEKEN</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=aytuncbeken" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/BarakStout"><img src="https://avatars3.githubusercontent.com/u/34528865?v=4" width="100px;" alt=""/><br /><sub><b>Barak Stout</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=BarakStout" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -68,3 +88,6 @@ We also thank sponsors of the event who make the swag and prizes possible:
 [Continuous Delivery Foundation (CDF)](https://cd.foundation/).
 In addition to swag, CloudBees donates working time for event hosts and reviewers.
 CDF also sponsors our [online meetup platform](https://www.jenkins.io/events/online-meetup) which we will be using for the event.
+
+[![CloudBees Logo](./img/cloudbees-logo.png)](https://www.cloudbees.com/)
+[![CDF Logo](./img/cdf.png)](https://cd.foundation/)
