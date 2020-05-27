@@ -39,7 +39,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -71,6 +71,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
     <td align="center"><a href="https://www.linkedin.com/in/aytunc-beken/"><img src="https://avatars2.githubusercontent.com/u/17325506?v=4" width="100px;" alt=""/><br /><sub><b>Aytunc BEKEN</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=aytuncbeken" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/BarakStout"><img src="https://avatars3.githubusercontent.com/u/34528865?v=4" width="100px;" alt=""/><br /><sub><b>Barak Stout</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=BarakStout" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Nik35"><img src="https://avatars3.githubusercontent.com/u/16377950?v=4" width="100px;" alt=""/><br /><sub><b>Nikhil Mohite</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Anik35" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=nik35" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/v1v"><img src="https://avatars2.githubusercontent.com/u/2871786?v=4" width="100px;" alt=""/><br /><sub><b>Victor Martinez</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=v1v" title="Documentation">📖</a></td>
   </tr>
 </table>
 
