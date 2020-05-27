@@ -39,7 +39,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -78,6 +78,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
     <td align="center"><a href="https://github.com/LarrySul"><img src="https://avatars0.githubusercontent.com/u/29729601?v=4" width="100px;" alt=""/><br /><sub><b>Sule Olanrewaju</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=LarrySul" title="Documentation">📖</a></td>
     <td align="center"><a href="http://amunizmartin.com"><img src="https://avatars3.githubusercontent.com/u/1017585?v=4" width="100px;" alt=""/><br /><sub><b>Antonio Muniz</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=amuniz" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ksenia-nenasheva"><img src="https://avatars1.githubusercontent.com/u/5075432?v=4" width="100px;" alt=""/><br /><sub><b>Kseniia Nenasheva</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=ksenia-nenasheva" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/TobiX"><img src="https://avatars3.githubusercontent.com/u/78534?v=4" width="100px;" alt=""/><br /><sub><b>Tobias Gruetzmacher</b></sub></a><br /><a href="#talk-TobiX" title="Talks">📢</a></td>
   </tr>
 </table>
 
