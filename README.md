@@ -31,14 +31,15 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
   [project ideas](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-and-project-ideas),
   [online events](https://www.jenkins.io/events/online-hackfest/2020-uiux/#online-events),
   [swag and prizes](https://www.jenkins.io/events/online-hackfest/2020-uiux/#swag-and-prizes)
-* [Getting started, Reporting cotnributions](./CONTRIBUTING.md)
+* [Getting started, Reporting contributions](./CONTRIBUTING.md)
+* [Recorded Sessions](./presentations/)
 * [Code of Conduct](https://www.jenkins.io/project/conduct/)
 * [Frequently Asked Questions](https://www.jenkins.io/events/online-hackfest/2020-uiux/faq/)
 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -51,14 +52,30 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
     <td align="center"><a href="https://tracymiranda.com"><img src="https://avatars2.githubusercontent.com/u/5173122?v=4" width="100px;" alt=""/><br /><sub><b>Tracy Miranda</b></sub></a><br /><a href="#eventOrganizing-tracymiranda" title="Event Organizing">📋</a></td>
     <td align="center"><a href="https://github.com/timja"><img src="https://avatars3.githubusercontent.com/u/21194782?v=4" width="100px;" alt=""/><br /><sub><b>Tim Jacomb</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Atimja" title="Reviewed Pull Requests">👀</a> <a href="#ideas-timja" title="Ideas, Planning, & Feedback">🤔</a> <a href="#talk-timja" title="Talks">📢</a></td>
     <td align="center"><a href="https://twitter.com/markyjackson5"><img src="https://avatars2.githubusercontent.com/u/16655670?v=4" width="100px;" alt=""/><br /><sub><b>Marky Jackson</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Amarkyjackson-taulia" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/hafner/index.de.html"><img src="https://avatars2.githubusercontent.com/u/503338?v=4" width="100px;" alt=""/><br /><sub><b>Ullrich Hafner</b></sub></a><br /><a href="#talk-uhafner" title="Talks">📢</a></td>
-    <td align="center"><a href="https://github.com/res0nance"><img src="https://avatars3.githubusercontent.com/u/31362124?v=4" width="100px;" alt=""/><br /><sub><b>Raihaan Shouhell</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=res0nance" title="Documentation">📖</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=res0nance" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/hafner/index.de.html"><img src="https://avatars2.githubusercontent.com/u/503338?v=4" width="100px;" alt=""/><br /><sub><b>Ullrich Hafner</b></sub></a><br /><a href="#talk-uhafner" title="Talks">📢</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=uhafner" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/res0nance"><img src="https://avatars3.githubusercontent.com/u/31362124?v=4" width="100px;" alt=""/><br /><sub><b>Raihaan Shouhell</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=res0nance" title="Documentation">📖</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=res0nance" title="Code">💻</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Ares0nance" title="Reviewed Pull Requests">👀</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/alyssat"><img src="https://avatars1.githubusercontent.com/u/15133103?v=4" width="100px;" alt=""/><br /><sub><b>Alyssat</b></sub></a><br /><a href="#fundingFinding-alyssat" title="Funding Finding">🔍</a> <a href="#talk-alyssat" title="Talks">📢</a></td>
-    <td align="center"><a href="https://www.cloudbees.com/"><img src="https://avatars3.githubusercontent.com/u/235526?v=4" width="100px;" alt=""/><br /><sub><b>CloudBees</b></sub></a><br /><a href="#financial-CloudBees" title="Financial">💵</a></td>
-    <td align="center"><a href="https://cd.foundation"><img src="https://avatars0.githubusercontent.com/u/47642222?v=4" width="100px;" alt=""/><br /><sub><b>CDF</b></sub></a><br /><a href="#financial-cdfoundation" title="Financial">💵</a> <a href="#infra-cdfoundation" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="https://github.com/stellargo"><img src="https://avatars0.githubusercontent.com/u/27735438?v=4" width="100px;" alt=""/><br /><sub><b>Sumit Sarin</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=stellargo" title="Documentation">📖</a> <a href="#tool-stellargo" title="Tools">🔧</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=stellargo" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/olblak"><img src="https://avatars1.githubusercontent.com/u/2360224?v=4" width="100px;" alt=""/><br /><sub><b>Olblak</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=olblak" title="Documentation">📖</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Aolblak" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://vsilverman.github.io"><img src="https://avatars0.githubusercontent.com/u/2159948?v=4" width="100px;" alt=""/><br /><sub><b>Vlad Silverman</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Avsilverman" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=vsilverman" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/daniel-beck"><img src="https://avatars3.githubusercontent.com/u/1831569?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Beck</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=daniel-beck" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.romenrg.com"><img src="https://avatars2.githubusercontent.com/u/1831480?v=4" width="100px;" alt=""/><br /><sub><b>Romén Rodríguez-Gil</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=romenrg" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Wadeck"><img src="https://avatars1.githubusercontent.com/u/2662497?v=4" width="100px;" alt=""/><br /><sub><b>Wadeck Follonier</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=Wadeck" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/megathaum"><img src="https://avatars3.githubusercontent.com/u/6340362?v=4" width="100px;" alt=""/><br /><sub><b>megathaum</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=megathaum" title="Documentation">📖</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=megathaum" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/jphartley"><img src="https://avatars3.githubusercontent.com/u/2852805?v=4" width="100px;" alt=""/><br /><sub><b>Jeremy Hartley</b></sub></a><br /><a href="#talk-jphartley" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/fqueiruga"><img src="https://avatars3.githubusercontent.com/u/5738588?v=4" width="100px;" alt=""/><br /><sub><b>Félix Queiruga</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=fqueiruga" title="Tests">⚠️</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Afqueiruga" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/aytunc-beken/"><img src="https://avatars2.githubusercontent.com/u/17325506?v=4" width="100px;" alt=""/><br /><sub><b>Aytunc BEKEN</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=aytuncbeken" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/BarakStout"><img src="https://avatars3.githubusercontent.com/u/34528865?v=4" width="100px;" alt=""/><br /><sub><b>Barak Stout</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=BarakStout" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Nik35"><img src="https://avatars3.githubusercontent.com/u/16377950?v=4" width="100px;" alt=""/><br /><sub><b>Nikhil Mohite</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Anik35" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=nik35" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/v1v"><img src="https://avatars2.githubusercontent.com/u/2871786?v=4" width="100px;" alt=""/><br /><sub><b>Victor Martinez</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=v1v" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://peterjonsson.se"><img src="https://avatars2.githubusercontent.com/u/4572231?v=4" width="100px;" alt=""/><br /><sub><b>Peter Jonsson</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=95jonpet" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/LarrySul"><img src="https://avatars0.githubusercontent.com/u/29729601?v=4" width="100px;" alt=""/><br /><sub><b>Sule Olanrewaju</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=LarrySul" title="Documentation">📖</a></td>
   </tr>
 </table>
 
