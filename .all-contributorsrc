@@ -361,6 +361,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "nimishbongale",
+      "name": "Nimish Bongale",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43414361?v=4",
+      "profile": "https://thelostarrow.wordpress.com/",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
