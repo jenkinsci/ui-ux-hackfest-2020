@@ -374,6 +374,15 @@
         "test",
         "doc"
       ]
+    },
+    {
+      "login": "sethmccombs",
+      "name": "Seth McCombs",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5605413?v=4",
+      "profile": "https://github.com/sethmccombs",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
