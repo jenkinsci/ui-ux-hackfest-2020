@@ -39,7 +39,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -84,6 +84,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MadsJakobsen"><img src="https://avatars3.githubusercontent.com/u/887218?v=4" width="100px;" alt=""/><br /><sub><b>Mads Jakobsen</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=MadsJakobsen" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Taeloz"><img src="https://avatars2.githubusercontent.com/u/32245517?v=4" width="100px;" alt=""/><br /><sub><b>Matthew Brunton</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=Taeloz" title="Documentation">📖</a></td>
   </tr>
 </table>
 
