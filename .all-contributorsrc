@@ -6,8 +6,8 @@
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": true,
   "skipCi": true,
-    "types": {
-    "custom": {
+  "types": {
+    "sharing": {
       "symbol": "🔔",
       "description": "Spread the word!",
       "link": "[<%= symbol %>](<%= https://www.jenkins.io/events/online-hackfest/2020-uiux/#spread-the-word %> \"<%= description %>\"),"
