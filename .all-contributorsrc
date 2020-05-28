@@ -286,6 +286,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Taeloz",
+      "name": "Matthew Brunton",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/32245517?v=4",
+      "profile": "https://github.com/Taeloz",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
