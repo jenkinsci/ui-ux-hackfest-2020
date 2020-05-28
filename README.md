@@ -94,7 +94,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
   <tr>
     <td align="center"><a href="https://github.com/kennyg"><img src="https://avatars3.githubusercontent.com/u/98244?v=4" width="100px;" alt=""/><br /><sub><b>Kenny Gatdula</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=kennyg" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/rathneesh"><img src="https://avatars3.githubusercontent.com/u/8232523?v=4" width="100px;" alt=""/><br /><sub><b>rathneesh</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=rathneesh" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://thelostarrow.wordpress.com/"><img src="https://avatars1.githubusercontent.com/u/43414361?v=4" width="100px;" alt=""/><br /><sub><b>Nimish Bongale</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=nimishbongale" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://thelostarrow.wordpress.com/"><img src="https://avatars1.githubusercontent.com/u/43414361?v=4" width="100px;" alt=""/><br /><sub><b>Nimish Bongale</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=nimishbongale" title="Tests">⚠️</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=nimishbongale" title="Documentation">📖</a></td>
   </tr>
 </table>
 
