@@ -343,6 +343,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kennyg",
+      "name": "Kenny Gatdula",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/98244?v=4",
+      "profile": "https://github.com/kennyg",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
