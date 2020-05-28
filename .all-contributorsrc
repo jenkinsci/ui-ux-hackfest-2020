@@ -130,7 +130,8 @@
       "contributions": [
         "review",
         "doc",
-        "test"
+        "test",
+        "content"
       ]
     },
     {
