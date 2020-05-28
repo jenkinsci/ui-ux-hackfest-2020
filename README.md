@@ -39,7 +39,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -89,6 +89,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
     <td align="center"><a href="https://github.com/urwa"><img src="https://avatars3.githubusercontent.com/u/5441467?v=4" width="100px;" alt=""/><br /><sub><b>urwa</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=urwa" title="Documentation">📖</a></td>
     <td align="center"><a href="http://krharsh17.vision"><img src="https://avatars2.githubusercontent.com/u/46624829?v=4" width="100px;" alt=""/><br /><sub><b>Kumar Harsh</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=krharsh17" title="Documentation">📖</a></td>
     <td align="center"><a href="https://sladyn98.netlify.com"><img src="https://avatars1.githubusercontent.com/u/28837406?v=4" width="100px;" alt=""/><br /><sub><b>Sladyn</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=sladyn98" title="Code">💻</a></td>
+    <td align="center"><a href="https://abhyudaya.dev"><img src="https://avatars0.githubusercontent.com/u/11471599?v=4" width="100px;" alt=""/><br /><sub><b>Abhyudaya Sharma</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=AbhyudayaSharma" title="Code">💻</a></td>
   </tr>
 </table>
 
