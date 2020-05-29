@@ -435,6 +435,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dduportal",
+      "name": "Damien Duportal",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1522731?v=4",
+      "profile": "https://github.com/dduportal",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
