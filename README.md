@@ -39,7 +39,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -97,6 +97,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
     <td align="center"><a href="https://thelostarrow.wordpress.com/"><img src="https://avatars1.githubusercontent.com/u/43414361?v=4" width="100px;" alt=""/><br /><sub><b>Nimish Bongale</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=nimishbongale" title="Tests">⚠️</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=nimishbongale" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/sethmccombs"><img src="https://avatars0.githubusercontent.com/u/5605413?v=4" width="100px;" alt=""/><br /><sub><b>Seth McCombs</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=sethmccombs" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/EstherAF"><img src="https://avatars2.githubusercontent.com/u/5547479?v=4" width="100px;" alt=""/><br /><sub><b>Esther Álvarez Feijoo</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=EstherAF" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/nlk35"><img src="https://avatars2.githubusercontent.com/u/26775132?v=4" width="100px;" alt=""/><br /><sub><b>nlk35</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=nlk35" title="Documentation">📖</a> <a href="#plugin-nlk35" title="Plugin/utility libraries">🔌</a></td>
   </tr>
 </table>
 
