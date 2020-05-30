@@ -450,6 +450,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "rkivisto",
+      "name": "Ray Kivisto",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19917557?v=4",
+      "profile": "https://www.linkedin.com/in/ray-kivisto/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
