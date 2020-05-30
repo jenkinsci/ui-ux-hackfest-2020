@@ -459,6 +459,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "mtreeman",
+      "name": "Mark Baumann",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/44359078?v=4",
+      "profile": "https://github.com/mtreeman",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
