@@ -39,7 +39,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -103,6 +103,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
   <tr>
     <td align="center"><a href="https://github.com/zaycodes"><img src="https://avatars1.githubusercontent.com/u/22375431?v=4" width="100px;" alt=""/><br /><sub><b>Zainab Abubakar</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=zaycodes" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/dduportal"><img src="https://avatars0.githubusercontent.com/u/1522731?v=4" width="100px;" alt=""/><br /><sub><b>Damien Duportal</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Adduportal" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ray-kivisto/"><img src="https://avatars2.githubusercontent.com/u/19917557?v=4" width="100px;" alt=""/><br /><sub><b>Ray Kivisto</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=rkivisto" title="Documentation">📖</a></td>
   </tr>
 </table>
 
