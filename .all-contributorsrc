@@ -468,6 +468,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "duemir",
+      "name": "Denys Digtiar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/348580?v=4",
+      "profile": "https://www.duemir.net/",
+      "contributions": [
+        "tool"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
