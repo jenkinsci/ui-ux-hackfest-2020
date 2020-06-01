@@ -39,7 +39,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -106,6 +106,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
     <td align="center"><a href="https://www.linkedin.com/in/ray-kivisto/"><img src="https://avatars2.githubusercontent.com/u/19917557?v=4" width="100px;" alt=""/><br /><sub><b>Ray Kivisto</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=rkivisto" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mtreeman"><img src="https://avatars3.githubusercontent.com/u/44359078?v=4" width="100px;" alt=""/><br /><sub><b>Mark Baumann</b></sub></a><br /><a href="#content-mtreeman" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.duemir.net/"><img src="https://avatars3.githubusercontent.com/u/348580?v=4" width="100px;" alt=""/><br /><sub><b>Denys Digtiar</b></sub></a><br /><a href="#tool-duemir" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/skundrik"><img src="https://avatars2.githubusercontent.com/u/14072681?v=4" width="100px;" alt=""/><br /><sub><b>Slavo</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=skundrik" title="Code">💻</a></td>
   </tr>
 </table>
 
