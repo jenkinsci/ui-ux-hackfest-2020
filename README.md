@@ -39,7 +39,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-53-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -113,6 +113,7 @@ See [this page](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-
     <td align="center"><a href="https://github.com/getJv"><img src="https://avatars0.githubusercontent.com/u/2864961?v=4" width="100px;" alt=""/><br /><sub><b>Jhonatan Morais</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=getjv" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/bitwiseman"><img src="https://avatars3.githubusercontent.com/u/1958953?v=4" width="100px;" alt=""/><br /><sub><b>Liam Newman</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Abitwiseman" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/commits?author=bitwiseman" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jsoref"><img src="https://avatars0.githubusercontent.com/u/2119212?v=4" width="100px;" alt=""/><br /><sub><b>Josh Soref</b></sub></a><br /><a href="https://github.com/jenkinsci/ui-ux-hackfest-2020/pulls?q=is%3Apr+reviewed-by%3Ajsoref" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/gungeajit"><img src="https://avatars3.githubusercontent.com/u/12168279?v=4" width="100px;" alt=""/><br /><sub><b>Ajit Rajshekar Gunge</b></sub></a><br /><a href="#content-gungeajit" title="Content">🖋</a></td>
   </tr>
 </table>
 

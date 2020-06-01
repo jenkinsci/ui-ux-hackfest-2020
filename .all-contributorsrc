@@ -525,6 +525,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "gungeajit",
+      "name": "Ajit Rajshekar Gunge",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12168279?v=4",
+      "profile": "https://github.com/gungeajit",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
