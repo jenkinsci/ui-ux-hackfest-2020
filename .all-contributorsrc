@@ -478,6 +478,15 @@
       "contributions": [
         "tool"
       ]
+    },
+    {
+      "login": "skundrik",
+      "name": "Slavo",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/14072681?v=4",
+      "profile": "https://github.com/skundrik",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
