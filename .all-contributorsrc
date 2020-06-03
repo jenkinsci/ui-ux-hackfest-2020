@@ -536,6 +536,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "elliot-smith77",
+      "name": "Elliot Smith",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/65857974?v=4",
+      "profile": "https://github.com/elliot-smith77",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
