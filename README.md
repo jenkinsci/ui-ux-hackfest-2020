@@ -4,6 +4,8 @@
 [![Registration](https://img.shields.io/badge/register-here-blue)](https://forms.gle/MrkASJagxNvdXBbdA)
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-lightgrey.svg)](https://www.jenkins.io/project/conduct/)
 
+| WARNING:  **This event is over**, thanks a lot to all contributors! Results are being processed at the moment, this page will be updated later. |
+| --- |
 
 ## About the event
 
@@ -12,8 +14,6 @@ The goal to improve the Jenkins user experience, including but not limited to us
 We also invite participants to share experiences about Jenkins and to participate in UX testing.
 The event will have the [Jenkins is the Way](https://www.jenkins.io/blog/2020/04/30/jenkins-is-the-way/) theme.
 You can find more information on the [event page](https://www.jenkins.io/events/online-hackfest/2020-uiux/).
-
-[![Register](./img/register-button-small.png)](https://forms.gle/MrkASJagxNvdXBbdA)
 
 ## Tracks and projects
 
