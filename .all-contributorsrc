@@ -545,6 +545,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "halkeye",
+      "name": "Gavin Mogan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/110087?v=4",
+      "profile": "http://www.gavinmogan.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "projectName": "ui-ux-hackfest-2020",
