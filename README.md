@@ -17,7 +17,7 @@ You can find more information on the [event page](https://www.jenkins.io/events/
 
 ## Tracks and projects
 
-There will be [3 main tracks](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-nikand-project-ideas):
+There will be [3 main tracks](https://www.jenkins.io/events/online-hackfest/2020-uiux/#tracks-and-project-ideas):
 
 * **User Interface** - Improve look&feel and accessibility for Jenkins users, work on new read-only interface for instances managed with configuration as code, create and update Jenkins themes, and many other topics.
 * **User Documentation** - Improve and create new user documentation, tutorials and solution pages. Also, there is ongoing documentation migration from Wiki to jenkins.io and plugin repositories.
